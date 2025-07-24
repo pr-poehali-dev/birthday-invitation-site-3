@@ -18,7 +18,13 @@ export default {
 			}
 		},
 		extend: {
+			fontFamily: {
+				display: ['Playfair Display', 'serif'],
+			},
 			colors: {
+				gold: '#D4AF37',
+				charcoal: '#2C2C2C',
+				cream: '#F8F8F8',
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',
