@@ -40,8 +40,8 @@ const Index = () => {
                     <Icon name="Calendar" size={28} className="text-gold" />
                   </div>
                   <h3 className="font-display text-xl font-semibold text-charcoal mb-2">Дата и время</h3>
-                  <p className="text-charcoal/70">15 августа 2025</p>
-                  <p className="text-charcoal/70">19:00 - 23:00</p>
+                  <p className="text-charcoal/70">7 августа 2025</p>
+                  <p className="text-charcoal/70">16:00</p>
                 </div>
 
                 <div className="text-center group">
