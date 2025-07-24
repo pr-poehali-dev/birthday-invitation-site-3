@@ -49,8 +49,9 @@ const Index = () => {
                     <Icon name="MapPin" size={28} className="text-gold" />
                   </div>
                   <h3 className="font-display text-xl font-semibold text-charcoal mb-2">Место проведения</h3>
-                  <p className="text-charcoal/70">Ресторан "Золотой век"</p>
-                  <p className="text-charcoal/70">ул. Пушкина, 25</p>
+                  <p className="text-charcoal/70">Коттедж 450 м²</p>
+                  <p className="text-charcoal/70">Казань, загородная зона</p>
+                  <p className="text-sm text-charcoal/60 mt-1">Бассейн • Сауна • Банкетный зал</p>
                 </div>
 
                 <div className="text-center group">
@@ -69,7 +70,7 @@ const Index = () => {
           <Card className="p-8 mb-12 bg-white/90 backdrop-blur-sm border border-gold/20">
             <div className="text-center mb-6">
               <h3 className="font-display text-2xl font-semibold text-charcoal mb-2">Как добраться</h3>
-              <p className="text-charcoal/70">Нажмите на карту для открытия в навигаторе</p>
+              <p className="text-charcoal/70">Нажмите на карту для построения маршрута</p>
             </div>
             
             <div className="relative h-64 bg-gradient-to-br from-gold/5 to-gold/10 rounded-lg border border-gold/20 cursor-pointer hover:shadow-lg transition-shadow group">
@@ -77,7 +78,7 @@ const Index = () => {
                 <div className="text-center">
                   <Icon name="Map" size={48} className="text-gold mb-3 mx-auto group-hover:scale-110 transition-transform" />
                   <p className="text-charcoal/70 font-medium">Интерактивная карта</p>
-                  <p className="text-sm text-charcoal/50 mt-1">Ресторан "Золотой век"</p>
+                  <p className="text-sm text-charcoal/50 mt-1">Коттедж в Казани</p>
                 </div>
               </div>
             </div>
