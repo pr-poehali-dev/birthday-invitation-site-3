@@ -59,8 +59,8 @@ const Index = () => {
                     <Icon name="Shirt" size={28} className="text-gold" />
                   </div>
                   <h3 className="font-display text-xl font-semibold text-charcoal mb-2">Дресс-код</h3>
-                  <p className="text-charcoal/70">Коктейльная одежда</p>
-                  <p className="text-charcoal/70">Элегантный стиль</p>
+                  <p className="text-charcoal/70">Белый верх</p>
+                  <p className="text-charcoal/70">Низ по удобству</p>
                 </div>
               </div>
             </div>
